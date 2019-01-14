@@ -1,1 +1,2 @@
-
+Aufgabe 10b) Ignorierte Dateien werden in dieser speziellen Datei manuell verfolgt, die im Root-Verzeichnis des Repositorys eingecheckt werden. Es muss zudem immer wieder commited werden, wenn neue Dateien erstellt werden. gitignore kann vor allem von Nutze sein, was sich als Hürde für die gemeinsame Zusammenarbeit herausstellt oder aber auch aus anderen wichtigen Gründen wie z.B. Sicherheit und Speicherplatz. Es lohnt sich eine eigene Sammlung aus den Dateien zu führen und den Projektmitgliedern zu kommen zu lassen. *.pdf-Datei 
+In die globale .gitignore-Datei, kommen Dateien wie z.B. Build-Ordner, dies spart nämlich an Speicherplatz.
